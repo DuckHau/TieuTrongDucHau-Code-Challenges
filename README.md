@@ -14,9 +14,9 @@ This repository contains my solutions for a series of code challenges. Each prob
 
 ```text
 /TieuTrongDucHau-Code-Challenges
-    ├── problem-4-sum-to-n/       (Solution for Problem 4)
-    ├── problem-5-crude-server/   (Solution for Problem 5)
-    ├── problem-6-architecture/   (Solution for Problem 6)
+    ├── problem4-Sumton/       (Solution for Problem 4)
+    ├── problem5-CRUD/   (Solution for Problem 5)
+    ├── problem6-Architecture/   (Solution for Problem 6)
     ├── .gitignore                (Root ignore file)
     └── README.md                 (This file))
 
